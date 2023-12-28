@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.paigegoldhagen.astral"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.paigegoldhagen.astral"},{"l":"com.paigegoldhagen.astral.themes"}];updateSearchResults();
